@@ -1,0 +1,45 @@
+[
+  {
+    "articleID": 0,
+    "userID": "wanted",
+    "profileThumbnail": null,
+    "imageURL": "https://source.unsplash.com/random/600x500",
+    "likes": 3,
+    "comments": [
+      {
+        "userID": "bclef25",
+        "content": "안녕하세요?"
+      },
+      {
+        "userID": "bclef25",
+        "content": "안녕하세요? 저는 조양호라고 합니다. 만나서 반갑습니다."
+      }
+    ]
+  },
+  {
+    "articleID": 1,
+    "userID": "pre_onboarding",
+    "profileThumbnail": null,
+    "imageURL": "https://source.unsplash.com/random/900x500",
+    "likes": 0,
+    "comments": [
+      {
+        "userID": "bclef25",
+        "content": "안녕하세요ㅎㅎ"
+      }
+    ]
+  },
+  {
+    "articleID": 2,
+    "userID": "pre_onboarding",
+    "profileThumbnail": null,
+    "imageURL": "https://source.unsplash.com/random/700x1080",
+    "likes": 1,
+    "comments": [
+      {
+        "userID": "bclef25",
+        "content": "안녕하세요!!"
+      }
+    ]
+  }
+]
