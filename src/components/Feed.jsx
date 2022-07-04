@@ -7,14 +7,12 @@ import {
 import { faEllipsis } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
-import { useState } from 'react';
 import styled from 'styled-components';
 import Comments from './Comments';
 
 const Wrapper = styled.div`
   max-width: 470px;
   margin: 0 auto;
-  display: ${(props) => (props.isLoading ? 'none' : 'block')};
   background-color: ${(props) => props.theme.bgColor};
   border: ${(props) => props.theme.border};
 `;
@@ -69,15 +67,13 @@ const Like = styled.div`
 
 export const splitEmail = (email) => email.split('@')[0];
 
-function Feed({ feed }) {
-  const [isLoading, setIsLoading] = useState(true);
-
+function Feed({ feed, setCount }) {
   const handleOnLoad = (event) => {
-    if (event) setIsLoading(false);
+    if (event) setCount((prev) => prev + 1);
   };
 
   return (
-    <Wrapper isLoading={isLoading}>
+    <Wrapper>
       <Header>
         <div>
           <div></div>
