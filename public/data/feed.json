@@ -1,0 +1,66 @@
+[
+  {
+    "name": "pre_onboarding@onboard.com",
+    "avatar": "",
+    "photo": "https://source.unsplash.com/random/600x500",
+    "like": 23,
+    "comments": [
+      { "name": "next_board", "message": "동해물과" },
+      { "name": "next_board", "message": "백두산이" },
+      { "name": "next_board", "message": "마르고..." }
+    ]
+  },
+  {
+    "name": "next_board@board.com",
+    "avatar": "",
+    "photo": "https://source.unsplash.com/random/900x500",
+    "like": 23,
+    "comments": [
+      { "name": "next_board", "message": "닳도록" },
+      { "name": "next_board", "message": "하느님이" },
+      { "name": "next_board", "message": "보우하사" }
+    ]
+  },
+  {
+    "name": "pre_onboarding@onboard.com",
+    "avatar": "",
+    "photo": "https://source.unsplash.com/random/700x1080",
+    "like": 23,
+    "comments": [
+      { "name": "next_board", "message": "우리나라" },
+      { "name": "next_board", "message": "만세" }
+    ]
+  },
+  {
+    "name": "pre_onboarding@onboard.com",
+    "avatar": "",
+    "photo": "https://source.unsplash.com/random/600x500",
+    "like": 23,
+    "comments": [
+      { "name": "next_board", "message": "동해물과" },
+      { "name": "next_board", "message": "백두산이" },
+      { "name": "next_board", "message": "마르고..." }
+    ]
+  },
+  {
+    "name": "next_board@board.com",
+    "avatar": "",
+    "photo": "https://source.unsplash.com/random/900x500",
+    "like": 23,
+    "comments": [
+      { "name": "next_board", "message": "닳도록" },
+      { "name": "next_board", "message": "하느님이" },
+      { "name": "next_board", "message": "보우하사" }
+    ]
+  },
+  {
+    "name": "pre_onboarding@onboard.com",
+    "avatar": "",
+    "photo": "https://source.unsplash.com/random/700x1080",
+    "like": 23,
+    "comments": [
+      { "name": "next_board", "message": "우리나라" },
+      { "name": "next_board", "message": "만세" }
+    ]
+  }
+]
